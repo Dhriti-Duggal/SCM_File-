@@ -1,0 +1,1 @@
+This project controls a DC motor and fan using a regulated power supply and battery backup.
