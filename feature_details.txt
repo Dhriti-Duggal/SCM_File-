@@ -1,1 +1,3 @@
+
 Feature: Implement an emergency stop function.
+Feature: Implement PWM-based speed control for the DC motor.
